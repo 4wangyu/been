@@ -8,7 +8,7 @@
 - [ ] BN Brunei Darussalam
 - [x] CN China
 - [ ] GE Georgia
-- [ ] IN India
+- [x] IN India
 - [x] ID Indonesia
 - [ ] IR Iran
 - [ ] IQ Iraq
