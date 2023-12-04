@@ -49,11 +49,11 @@
 
 # Oceania
 
-- [ ] AU Australia
+- [x] AU Australia
 - [ ] FJ Fiji
 - [ ] TF French Southern and Antarctic Lands
 - [ ] NC New Caledonia
-- [ ] NZ New Zealand
+- [x] NZ New Zealand
 - [ ] PG Papua New Guinea
 - [ ] SB Solomon Islands
 - [ ] VU Vanuatu
