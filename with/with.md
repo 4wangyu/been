@@ -41,7 +41,7 @@
 - [x] TH Thailand
 - [ ] TL Timor-Leste
 - [ ] TR Turkey
-- [ ] TM Turkmenistan
+- [x] TM Turkmenistan
 - [ ] AE United Arab Emirates
 - [ ] UZ Uzbekistan
 - [x] VN Vietnam
