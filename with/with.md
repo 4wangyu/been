@@ -79,7 +79,7 @@
 - [ ] IE Ireland
 - [ ] IT Italy
 - [ ] XK Kosovo
-- [ ] LV Latvia
+- [x] LV Latvia
 - [ ] LT Lithuania
 - [ ] LU Luxembourg
 - [ ] MK Macedonia
