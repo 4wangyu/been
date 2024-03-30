@@ -28,7 +28,7 @@
 - [ ] OM Oman
 - [ ] PK Pakistan
 - [ ] PS Palestinian Territories
-- [ ] PH Philippines
+- [x] PH Philippines
 - [ ] QA Qatar
 - [ ] RU Russia
 - [ ] SA Saudi Arabia
@@ -44,7 +44,7 @@
 - [ ] TM Turkmenistan
 - [ ] AE United Arab Emirates
 - [ ] UZ Uzbekistan
-- [ ] VN Vietnam
+- [x] VN Vietnam
 - [ ] YE Yemen
 
 # Oceania
