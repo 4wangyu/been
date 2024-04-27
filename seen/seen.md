@@ -13,7 +13,7 @@
 - [x] IR Iran
 - [ ] IQ Iraq
 - [ ] IL Israel
-- [ ] JP Japan
+- [x] JP Japan
 - [ ] JO Jordan
 - [ ] KZ Kazakhstan
 - [ ] KW Kuwait
@@ -26,34 +26,34 @@
 - [ ] NP Nepal
 - [ ] KP North Korea
 - [ ] OM Oman
-- [ ] PK Pakistan
+- [x] PK Pakistan
 - [ ] PS Palestinian Territories
-- [ ] PH Philippines
+- [x] PH Philippines
 - [x] QA Qatar
 - [x] RU Russia
 - [ ] SA Saudi Arabia
-- [ ] SG Singapore
-- [ ] KR South Korea
+- [x] SG Singapore
+- [x] KR South Korea
 - [ ] LK Sri Lanka
 - [ ] SY Syria
 - [x] TW Taiwan
 - [ ] TJ Tajikistan
-- [ ] TH Thailand
+- [x] TH Thailand
 - [ ] TL Timor-Leste
 - [x] TR Turkey
 - [ ] TM Turkmenistan
 - [ ] AE United Arab Emirates
 - [ ] UZ Uzbekistan
-- [ ] VN Vietnam
+- [x] VN Vietnam
 - [ ] YE Yemen
 
 # Oceania
 
-- [ ] AU Australia
+- [x] AU Australia
 - [ ] FJ Fiji
 - [ ] TF French Southern and Antarctic Lands
 - [ ] NC New Caledonia
-- [ ] NZ New Zealand
+- [x] NZ New Zealand
 - [ ] PG Papua New Guinea
 - [ ] SB Solomon Islands
 - [ ] VU Vanuatu
@@ -61,51 +61,51 @@
 # Europe
 
 - [ ] AL Albania
-- [ ] AT Austria
+- [x] AT Austria
 - [ ] BY Belarus
-- [ ] BE Belgium
+- [x] BE Belgium
 - [ ] BA Bosnia and Herzegovina
 - [ ] BG Bulgaria
 - [ ] HR Croatia
-- [ ] CZ Czech Republic
+- [x] CZ Czech Republic
 - [x] DK Denmark
-- [ ] EE Estonia
+- [x] EE Estonia
 - [ ] FI Finland
-- [ ] FR France
-- [ ] DE Germany
+- [x] FR France
+- [x] DE Germany
 - [ ] GR Greece
 - [x] HU Hungary
 - [ ] IS Iceland
-- [ ] IE Ireland
-- [ ] IT Italy
-- [ ]  K Kosovo
-- [ ] LV Latvia
-- [ ] LT Lithuania
-- [ ] LU Lu embourg
+- [x] IE Ireland
+- [x] IT Italy
+- [ ] XK Kosovo
+- [x] LV Latvia
+- [x] LT Lithuania
+- [ ] LU Luxembourg
 - [ ] MK Macedonia
 - [ ] MD Moldova
 - [ ] ME Montenegro
-- [ ] NL Netherlands
-- [ ] NO Norway
-- [ ] PL Poland
+- [x] NL Netherlands
+- [x] NO Norway
+- [x] PL Poland
 - [ ] PT Portugal
-- [ ] RO Romania
+- [x] RO Romania
 - [ ] RS Serbia
 - [ ] SK Slovakia
 - [ ] SI Slovenia
-- [ ] ES Spain
-- [ ] SE Sweden
+- [x] ES Spain
+- [x] SE Sweden
 - [ ] CH Switzerland
 - [x] UA Ukraine
-- [ ] GB United Kingdom
+- [x] GB United Kingdom
 
 # North America
 
 - [x] CA Canada
 - [ ] GL Greenland
-- [ ] M  Me ico
+- [x] MX Mexico
 - [ ] SJ Svalbard and Jan Mayen
-- [ ] US United States
+- [x] US United States
 
 # Central America
 
@@ -126,10 +126,10 @@
 
 # South America
 
-- [ ] AR Argentina
+- [x] AR Argentina
 - [ ] BO Bolivia
-- [ ] BR Brazil
-- [ ] CL Chile
+- [x] BR Brazil
+- [x] CL Chile
 - [ ] CO Colombia
 - [ ] EC Ecuador
 - [ ] FK Falkland Islands
