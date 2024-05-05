@@ -130,7 +130,7 @@
 - [ ] BO Bolivia
 - [x] BR Brazil
 - [x] CL Chile
-- [ ] CO Colombia
+- [x] CO Colombia
 - [ ] EC Ecuador
 - [ ] FK Falkland Islands
 - [ ] GF French Guiana
