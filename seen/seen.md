@@ -9,7 +9,7 @@
 - [x] CN China
 - [ ] GE Georgia
 - [x] IN India
-- [ ] ID Indonesia
+- [x] ID Indonesia
 - [x] IR Iran
 - [ ] IQ Iraq
 - [ ] IL Israel
