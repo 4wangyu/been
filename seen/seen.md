@@ -4,7 +4,7 @@
 - [ ] AM Armenia
 - [ ] AZ Azerbaijan
 - [ ] BD Bangladesh
-- [ ] BT Bhutan
+- [x] BT Bhutan
 - [ ] BN Brunei Darussalam
 - [x] CN China
 - [ ] GE Georgia
