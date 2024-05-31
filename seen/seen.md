@@ -95,7 +95,7 @@
 - [ ] SI Slovenia
 - [x] ES Spain
 - [x] SE Sweden
-- [ ] CH Switzerland
+- [x] CH Switzerland
 - [x] UA Ukraine
 - [x] GB United Kingdom
 
