@@ -73,7 +73,7 @@
 - [ ] FI Finland
 - [x] FR France
 - [x] DE Germany
-- [ ] GR Greece
+- [x] GR Greece
 - [x] HU Hungary
 - [ ] IS Iceland
 - [x] IE Ireland
