@@ -88,7 +88,7 @@
 - [x] NL Netherlands
 - [x] NO Norway
 - [x] PL Poland
-- [ ] PT Portugal
+- [x] PT Portugal
 - [x] RO Romania
 - [ ] RS Serbia
 - [ ] SK Slovakia
