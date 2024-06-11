@@ -70,7 +70,7 @@
 - [x] CZ Czech Republic
 - [x] DK Denmark
 - [x] EE Estonia
-- [ ] FI Finland
+- [x] FI Finland
 - [x] FR France
 - [x] DE Germany
 - [x] GR Greece
