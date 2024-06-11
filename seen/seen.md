@@ -90,7 +90,7 @@
 - [x] PL Poland
 - [x] PT Portugal
 - [x] RO Romania
-- [ ] RS Serbia
+- [x] RS Serbia
 - [ ] SK Slovakia
 - [ ] SI Slovenia
 - [x] ES Spain
