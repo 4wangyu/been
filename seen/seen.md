@@ -75,7 +75,7 @@
 - [x] DE Germany
 - [x] GR Greece
 - [x] HU Hungary
-- [ ] IS Iceland
+- [x] IS Iceland
 - [x] IE Ireland
 - [x] IT Italy
 - [ ] XK Kosovo
