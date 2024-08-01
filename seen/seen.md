@@ -64,7 +64,7 @@
 - [x] AT Austria
 - [ ] BY Belarus
 - [x] BE Belgium
-- [ ] BA Bosnia and Herzegovina
+- [x] BA Bosnia and Herzegovina
 - [x] BG Bulgaria
 - [ ] HR Croatia
 - [x] CZ Czech Republic
