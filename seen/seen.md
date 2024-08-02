@@ -82,7 +82,7 @@
 - [x] LV Latvia
 - [x] LT Lithuania
 - [ ] LU Luxembourg
-- [ ] MK Macedonia
+- [x] MK Macedonia
 - [ ] MD Moldova
 - [ ] ME Montenegro
 - [x] NL Netherlands
