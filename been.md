@@ -71,13 +71,13 @@
 - [ ] DK Denmark
 - [ ] EE Estonia
 - [ ] FI Finland
-- [ ] FR France
-- [ ] DE Germany
+- [x] FR France
+- [x] DE Germany
 - [ ] GR Greece
 - [ ] HU Hungary
 - [ ] IS Iceland
 - [ ] IE Ireland
-- [ ] IT Italy
+- [x] IT Italy
 - [ ] XK Kosovo
 - [ ] LV Latvia
 - [ ] LT Lithuania
@@ -95,7 +95,7 @@
 - [ ] SI Slovenia
 - [ ] ES Spain
 - [ ] SE Sweden
-- [ ] CH Switzerland
+- [x] CH Switzerland
 - [ ] UA Ukraine
 - [ ] GB United Kingdom
 
