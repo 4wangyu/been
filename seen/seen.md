@@ -66,7 +66,7 @@
 - [x] BE Belgium
 - [x] BA Bosnia and Herzegovina
 - [x] BG Bulgaria
-- [ ] HR Croatia
+- [x] HR Croatia
 - [x] CZ Czech Republic
 - [x] DK Denmark
 - [x] EE Estonia
