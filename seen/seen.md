@@ -20,7 +20,7 @@
 - [ ] KG Kyrgyzstan
 - [ ] LA Lao People's Democratic Republic
 - [ ] LB Lebanon
-- [ ] MY Malaysia
+- [x] MY Malaysia
 - [ ] MN Mongolia
 - [ ] MM Myanmar
 - [ ] NP Nepal
