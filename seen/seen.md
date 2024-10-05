@@ -186,7 +186,7 @@
 - [ ] SO Somalia
 - [x] ZA South Africa
 - [ ] SS South Sudan
-- [ ] SD Sudan
+- [x] SD Sudan
 - [ ] SZ Swaziland
 - [ ] TZ Tanzania
 - [ ] TG Togo
