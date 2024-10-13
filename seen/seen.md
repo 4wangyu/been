@@ -12,7 +12,7 @@
 - [x] ID Indonesia
 - [x] IR Iran
 - [ ] IQ Iraq
-- [ ] IL Israel
+- [x] IL Israel
 - [x] JP Japan
 - [ ] JO Jordan
 - [ ] KZ Kazakhstan
