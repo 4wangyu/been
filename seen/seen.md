@@ -19,7 +19,7 @@
 - [ ] KW Kuwait
 - [ ] KG Kyrgyzstan
 - [ ] LA Lao People's Democratic Republic
-- [ ] LB Lebanon
+- [x] LB Lebanon
 - [x] MY Malaysia
 - [ ] MN Mongolia
 - [ ] MM Myanmar
