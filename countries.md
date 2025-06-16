@@ -51,7 +51,7 @@
 - [ ] SK Slovakia
 - [ ] SM San Marino
 - [ ] UA Ukraine
-- [ ] VA Vatican City
+- [x] VA Vatican City
 - [ ] XK Kosovo
 
 # Asia
